@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="Awesome AI Design Tools" width="100%" />
+
 # Awesome AI Design Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### A curated, opinionated map of tools at the seam of design and AI — for design technologists who ship.
