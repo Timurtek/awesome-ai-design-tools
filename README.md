@@ -43,9 +43,10 @@ Prompt in, high-fidelity design out. Best for getting from a blank canvas to a c
 
 ## Design → Code
 
-You already have the design. These turn it into production-ish code. This is the category most relevant to your front-end + design-systems positioning.
+You already have the design. These turn it into production-ish code. The category that matters most if your day job lives in front-end and design systems.
 
 - **[Builder.io Visual Copilot](https://www.builder.io/m/design-to-code)** — the most technically sophisticated of the bunch. Uses an AI model plus the open-source [Mitosis](https://github.com/BuilderIO/mitosis) compiler to turn flat Figma into real component hierarchies across frameworks. My pick when code quality matters.
+- **[Subframe](https://subframe.com/)** — design-system-aware UI building: compose screens in a visual editor against your own component library and ship clean, idiomatic React. The closest thing here to the design-technologist sweet spot.
 - **[Anima](https://www.animaapp.com/)** — most consistent multi-framework output (React/HTML/CSS/Vue); clean enough to work with directly. Edges toward "product builder."
 - **[Locofy](https://www.locofy.ai/)** — modular, reusable components with smart class naming and proper props. The closest Anima alternative; often more readable output.
 - **[TeleportHQ](https://teleporthq.io/)** — visual builder with code export; handy for landing pages and lighter front-ends.
@@ -55,20 +56,20 @@ You already have the design. These turn it into production-ish code. This is the
 
 Prompt in, deployed app out. The line between "design tool" and "app builder" is dissolving here.
 
-- **[v0](https://v0.app/)** — Vercel's prompt/reference → production React/Next.js, with instant deploy. The strongest end-to-end option if you're in the React/Next ecosystem (which, per your stack, you are).
+- **[v0](https://v0.app/)** — Vercel's prompt/reference → production React/Next.js, with instant deploy. The strongest end-to-end option if you're already in the React/Next ecosystem.
 - **[Bolt.new](https://bolt.new/)** — full-stack app generation in-browser with live preview.
 - **[Lovable](https://lovable.dev/)** — prompt-to-app aimed at shipping real products fast.
 
 ## Design Systems & Tokens
 
-The least crowded, most defensible corner — and the one closest to your edge.
+The least crowded, most defensible corner of this whole map.
 
 - **[Tokens Studio](https://tokens.studio/)** — the serious design-tokens toolchain for Figma; pipelines tokens into code.
 - **[Style Dictionary](https://styledictionary.com/)** — Amazon's build system for transforming design tokens across platforms. The backbone of most token pipelines.
 - **[Specify](https://specifyapp.com/)** — design data platform for distributing tokens/assets from source of truth to code.
 - **[Supernova](https://www.supernova.io/)** — design system management and documentation with code automation.
 
-> _This is where a sharp open-source contribution from you could plant a flag — e.g. a tokens-to-[your-framework] CLI. Few credible people sit at tokens × AI._
+> _This is the corner where a sharp open-source contribution still plants a flag. Few credible people sit at the tokens × AI intersection, and the tooling for piping design tokens into modern frameworks is wide open._
 
 ## AI in the IDE
 
