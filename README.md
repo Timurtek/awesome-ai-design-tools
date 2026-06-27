@@ -102,12 +102,7 @@ No single tool wins. The skill — and the reason a design technologist still ma
 
 ## Contributing
 
-PRs welcome, with a high bar. To add a tool:
-
-1. It must do something genuinely useful at the design × AI seam — no "AI-washed" filler.
-2. One honest sentence on what it's *for* and where it's strong. No marketing copy.
-3. Put it in the right job-to-be-done section.
-4. Link to the official site, not an affiliate URL.
+PRs welcome, with a high bar — this list is curated for taste, not coverage. See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the four-point bar a tool has to clear.
 
 Disagree with a take? Open an issue — arguments about taste are the point.
 
