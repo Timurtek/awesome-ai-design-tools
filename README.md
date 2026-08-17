@@ -19,6 +19,7 @@ Maintained by [Tek](https://www.timurtek.com). Curated for taste, not for SEO. I
 
 ## Contents
 
+- [Reference & Inspiration (find the direction before prompting)](#reference--inspiration)
 - [Text → UI (prompt in, design out)](#text--ui)
 - [Design → Code (your design, shipped as code)](#design--code)
 - [Prompt → App (prompt in, working app out)](#prompt--app)
@@ -29,6 +30,12 @@ Maintained by [Tek](https://www.timurtek.com). Curated for taste, not for SEO. I
 - [Contributing](#contributing)
 
 ---
+
+## Reference & Inspiration
+
+Find concrete visual direction before asking an AI tool to generate or implement an interface.
+
+- **[BuildMuse](https://buildmuse.design/)** — curated examples of shipped interfaces, websites, motion, app screens, icons, and front-end effects; useful for giving coding agents concrete reference material, not for generating or implementing UI.
 
 ## Text → UI
 
