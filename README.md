@@ -35,6 +35,7 @@ Maintained by [Tek](https://www.timurtek.com). Curated for taste, not for SEO. I
 Prompt in, high-fidelity design out. Best for getting from a blank canvas to a credible first draft.
 
 - **[Claude Design](https://claude.com/product/design)** — Anthropic's beta. Describe a prototype, deck, or one-pager and Claude drafts it, then imports your real design system (from GitHub, design files, or your codebase) so output looks like your brand, not a template. Bridges to code via Claude Code (`/design-sync`); exports to PPTX/PDF/HTML. The standout for design-system-aware generation that hands off cleanly to dev.
+- **[Raphael](https://raphael.app)** — Free unlimited AI image generator with multi-model routing; strong for rapid creative drafts.
 - **[Figma Make](https://www.figma.com/ai/)** — AI generation living inside Figma, so your output stays editable in the tool you already use. The default choice if you live in Figma.
 - **[Google Stitch](https://stitch.withgoogle.com/)** — Google's AI-native design canvas (this is what Galileo AI became after the acquisition). Relaunched in 2026 with an infinite canvas and context-aware design agents. Strong at "describe a fintech dashboard, get appropriate components." Free in beta.
 - **[Uizard](https://uizard.io/)** — fast, approachable text/screenshot → editable mockups. Great for non-designers and early ideation.
